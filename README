@@ -2,6 +2,9 @@
 A rudimentary attempt at a commandline tool for exporting data
 from KDE's Akonadi PIM storage.
 
+The code is still experimental and not very likely to grow up
+anytime soon.
+
 
 How To Build This Template
 -=-=-=-=-=-=-=-=-=-=-=-=-=
